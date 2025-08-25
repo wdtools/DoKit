@@ -65,7 +65,7 @@
 - (instancetype)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
     if (self) {
-        [self addSubview:self.closeButton];
+        [self.contentView addSubview:self.closeButton];
     }
     return self;
 }
