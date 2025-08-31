@@ -12,6 +12,7 @@
 #import <GCDWebServer/GCDWebServerMultiPartFormRequest.h>
 #import <GCDWebServer/GCDWebServerFileResponse.h>
 #import <FMDB/FMDB.h>
+#import <FMDB/FMDatabase.h>
 #import "DoraemonAppInfoUtil.h"
 
 
